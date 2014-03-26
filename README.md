@@ -1,3 +1,4 @@
+[![tip for next commit](http://lite4commit.com/projects/2.svg)](http://lite4commit.com/projects/2)
 ## Litecoin Branch for development of Ominwallet Litecoin support.  Please feel free to make pull requests or donate to the project http://lite4commit.com/projects/2
 
 ## What is Mastercoin?
